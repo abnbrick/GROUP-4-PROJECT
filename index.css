@@ -75,6 +75,15 @@ section p {
     color: #555;
 }
 
+section {
+    text-align: center;
+}
+
+img {
+    max-width: 100%; 
+    height: auto;   
+}
+
 .team {
     display: flex;
     justify-content: space-around;
